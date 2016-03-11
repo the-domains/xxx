@@ -1,6 +1,6 @@
 name: xxx
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.15032
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#2d3937'
     - '#946844'
     - '#f175a4'
-  brandStrength: 0.605188587680459
-  lightness: 0.6462534903548658
+  brandStrength: 1
+  lightness: 1
   saturation: 0.9165489764418453
   rhythmicContrast: 0.013711062027141452
 purpose: []
